@@ -2,6 +2,12 @@ package com.dzgz;
 
 import com.arthur.utils.Utils;
 
+/**
+ * @陈利人
+ * #面试题#给定一个无序的整数数组，怎么找到第一个大于0，并且不在此数组的整数。
+ * 比如[1,2,0] 返回 3, [3,4,-1,1] 返回 2。最好能O(1)空间和O(n)时间。 关注微信公众账号“待字闺中”，了解更多。
+ * */
+
 public class Ex0910 {
 	
 	public static void main(String[] argv){
